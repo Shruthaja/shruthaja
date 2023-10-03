@@ -8,3 +8,7 @@ body {
     flex-direction: column; /* Allows vertical centering */
 }
 
+embed{
+    height:50%;
+    width:50%;
+}
