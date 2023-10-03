@@ -7,13 +7,4 @@ body {
     display: flex;
     flex-direction: column; /* Allows vertical centering */
 }
-.resume-container {
-    flex: 1; /* The resume container takes up 50% of the body's height */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.resume-pdf {
-    width: 100%; /* The iframe takes up 100% of the body's width */
-    max-height: 50vh; /* Limit iframe height to 50% of the viewport height */
-}
+
