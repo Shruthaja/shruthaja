@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    height: 100%; /* Set the body to full viewport height */
+    height: 100vh; /* Set the body to full viewport height */
     display: flex;
     flex-direction: column; /* Allows vertical centering */
 }
@@ -14,6 +14,6 @@ body {
     align-items: center;
 }
 .resume-pdf {
-    width: 100%; /* The iframe takes up 50% of the body's width */
-    max-height: 100%; /* Limit iframe height to 50% of the viewport height */
+    width: 100%; /* The iframe takes up 100% of the body's width */
+    max-height: 50vh; /* Limit iframe height to 50% of the viewport height */
 }
