@@ -65,9 +65,28 @@ Cloud and Software Engineer with extensive experience in cloud operations, suppo
 
 ## Project Highlights
 
-- **[Advanced-Topics-software-engineering-6324-001](https://github.com/Shruthaja/Advanced-Topics-software-engineering-6324-001)** (Python)
-- **[ChatEaseGroup8](https://github.com/Shruthaja/ChatEaseGroup8)** (Kotlin)
-- **[DAMT_Credit_Default_Prediction](https://github.com/Shruthaja/DAMT_Credit_Default_Prediction)** (Python)
-- **[SortingAlgorithms](https://github.com/Shruthaja/SortingAlgorithms)** (Python)
-- **[Progress-Bar](https://github.com/Shruthaja/Progress-Bar)** (HTML)
-- **[LMS](https://github.com/Shruthaja/LMS)** (Java)
+Here are some of my key projects, detailing the technologies and tools used in each:
+
+- **[Advanced-Topics-software-engineering-6324-001](https://github.com/Shruthaja/Advanced-Topics-software-engineering-6324-001)** (Python)  
+  - **Tech Stack:** Python, Data Analysis Libraries (e.g., Pandas, NumPy), Object-Oriented Programming (OOP)  
+  - This project demonstrates advanced data processing techniques and analysis workflows. It includes implementations for various algorithms, with a focus on creating efficient, reusable code.
+
+- **[ChatEaseGroup8](https://github.com/Shruthaja/ChatEaseGroup8)** (Kotlin)  
+  - **Tech Stack:** Kotlin, Android SDK, Firebase  
+  - ChatEase is a messaging application built for Android platforms, emphasizing seamless communication between users. Firebase is utilized for real-time database support, authentication, and cloud-based storage solutions. The project adheres to Android best practices, supporting compatibility across multiple OS versions.
+
+- **[DAMT_Credit_Default_Prediction](https://github.com/Shruthaja/DAMT_Credit_Default_Prediction)** (Python)  
+  - **Tech Stack:** Python, Machine Learning Libraries (scikit-learn, TensorFlow or Keras), Data Visualization (Matplotlib, Seaborn)  
+  - This project focuses on predictive modeling and data analysis. Using machine learning models, it predicts the likelihood of credit defaults. The model is trained on extensive datasets and evaluated with common metrics, leveraging scikit-learn for data preprocessing and model training.
+
+- **[SortingAlgorithms](https://github.com/Shruthaja/SortingAlgorithms)** (Python)  
+  - **Tech Stack:** Python, Algorithm Design, Data Structures  
+  - This repository provides implementations of fundamental sorting algorithms (e.g., Quick Sort, Merge Sort, Bubble Sort) and demonstrates their efficiency in different contexts. The project includes performance comparisons and notes on each algorithm’s time complexity.
+
+- **[Progress-Bar](https://github.com/Shruthaja/Progress-Bar)** (HTML)  
+  - **Tech Stack:** HTML, CSS, JavaScript  
+  - A front-end project showcasing a custom progress bar component. It demonstrates proficiency in dynamic styling, with animations created using CSS and JavaScript to manage state and provide a responsive UI experience.
+
+- **[LMS](https://github.com/Shruthaja/LMS)** (Java)  
+  - **Tech Stack:** Java, MySQL, JDBC, Object-Oriented Programming (OOP)  
+  - The Learning Management System (LMS) project is a back-end application built with Java for managing student and course data. It uses MySQL as the database, with JDBC for database connectivity, implementing CRUD operations and user authentication.
