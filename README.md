@@ -89,4 +89,4 @@ Here are some of my key projects, detailing the technologies and tools used in e
 
 - **[LMS](https://github.com/Shruthaja/LMS)** (Java)  
   - **Tech Stack:** Java, MySQL, JDBC, Object-Oriented Programming (OOP)  
-  - The Learning Management System (LMS) project is a back-end application built with Java for managing student and course data. It uses MySQL as the database, with JDBC for database connectivity, implementing CRUD operations and user authentication.
+  - The LMS project is an Android app that manages a library system using a PHP backend and MySQL database. It allows users to list, lend, and add books, check overdue books, and interact with a backend via HTTP GET requests. Future improvements include user authentication and enhanced UI/UX features.
