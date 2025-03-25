@@ -67,6 +67,16 @@ Cloud and Software Engineer with extensive experience in cloud operations, suppo
 
 Here are some of my key projects, detailing the technologies and tools used in each:
 
+- **SaaS Web Application Deployment on DigitalOcean Kubernetes (DOKS)(https://github.com/Shruthaja/DigitalOcean)** (Python)
+  - **Tech Stack: Kubernetes, DigitalOcean Load Balancer, DOCR, Flask, Docker, HPA, Metrics Server**
+  - This project focuses on deploying a scalable SaaS web application on DigitalOcean Kubernetes (DOKS) with:
+  - cluster Deployment: Auto-scaling (1-2 nodes) for efficiency.
+  - Load Balancer: Routes external traffic to Flask’s port 5000.
+  - Containerization: Dockerized Flask app stored in DOCR.
+  - Kubernetes Deployment & Service: Ensures reliability with a LoadBalancer service.
+  - HPA & Metrics Server: Enables autoscaling based on CPU usage.
+  - This project highlights Kubernetes orchestration, container management, and auto-scaling for optimized cloud deployments.
+
 - **[Advanced-Topics-software-engineering-6324-001](https://github.com/Shruthaja/Advanced-Topics-software-engineering-6324-001)** (Python)  
   - **Tech Stack:** Python, Data Analysis Libraries (e.g., Pandas, NumPy), Object-Oriented Programming (OOP)  
   - This project demonstrates advanced data processing techniques and analysis workflows. It includes implementations for various algorithms, with a focus on creating efficient, reusable code.
