@@ -67,7 +67,7 @@ Cloud and Software Engineer with extensive experience in cloud operations, suppo
 
 Here are some of my key projects, detailing the technologies and tools used in each:
 
-- **[SaaS Web Application Deployment on DigitalOcean Kubernetes - DOKS] (https://github.com/Shruthaja/DigitalOcean)** (Python)
+- **[SaaS Web Application Deployment on DigitalOcean Kubernetes - DOKS](https://github.com/Shruthaja/DigitalOcean)** (Python)
   - **Tech Stack: Kubernetes, DigitalOcean Load Balancer, DOCR, Flask, Docker, HPA, Metrics Server**
   - This project focuses on deploying a scalable SaaS web application on DigitalOcean Kubernetes (DOKS) with:
   - cluster Deployment: Auto-scaling (1-2 nodes) for efficiency.
